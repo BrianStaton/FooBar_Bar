@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include "baz.h"
 
 void foo(void)
 {
-    printf("In foo V2\n");
+    printf("In foo V3\n");
+    baz();
 }
 
