@@ -2,6 +2,6 @@
 
 void foo(void)
 {
-    printf("In foo V1\n");
+    printf("In foo V2\n");
 }
 
